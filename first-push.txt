@@ -1,0 +1,2 @@
+This is the first push. 
+OK so same command opens already created file. X
